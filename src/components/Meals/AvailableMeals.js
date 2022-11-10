@@ -6,27 +6,27 @@ import MealItem from './MealItem/MealItem.js';
 const DUMMY_MEALS = [
     {
       id: 'm1',
-      name: 'Sushi',
-      description: 'Finest fish and veggies',
-      price: 22.99,
+      name: 'Biryani',
+      description: 'Chicken biryani with delicious raita',
+      price: 250,
     },
     {
       id: 'm2',
-      name: 'Schnitzel',
-      description: 'A german specialty!',
-      price: 16.5,
+      name: 'Tandoor dish',
+      description: 'Tandoori chicken and creamy afghani chicken',
+      price:300 ,
     },
     {
       id: 'm3',
-      name: 'Barbecue Burger',
-      description: 'American, raw, meaty',
-      price: 12.99,
+      name: 'chowmein',
+      description: 'egg,chicken and veggies',
+      price: 150,
     },
     {
       id: 'm4',
-      name: 'Green Bowl',
-      description: 'Healthy...and green...',
-      price: 18.99,
+      name: 'protein salad',
+      description: 'Boiled chicken with veggies',
+      price: 200,
     },
   ];
 

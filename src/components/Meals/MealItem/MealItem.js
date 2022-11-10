@@ -3,7 +3,7 @@ import MealItemForm from './MealItemForm';
 
 const MealItem=(props)=>{
 
-const price=`$${props.price.toFixed(2)}`; // toFixed for decimal places
+const price=`Rs.${props.price.toFixed(2)}`; // toFixed for decimal places
 
 return <li className={classes.meal}>
     <div>
